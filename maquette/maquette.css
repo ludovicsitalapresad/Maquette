@@ -22,14 +22,14 @@ margin-top:120px;
 
 
 }
-.form-group.last { margin-bottom:0px; }
+.form-group.last { margin-bottom:19px; }
 
 .footer{
 font-family: sans-serif;
 text-align: center;
 color:white;
 background-color: #808080;
-position: fixed;
+/*position: fixed;*/
 height: 100px;
 bottom: 0;
 width: 100%;
@@ -37,5 +37,4 @@ width: 100%;
 
 .background {
 background-color: #e6e6e6;
-
 }
